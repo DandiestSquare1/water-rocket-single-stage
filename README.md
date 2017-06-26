@@ -4,7 +4,7 @@ TODO: Write a project description
 ## Videos
 [Water Rocket Parachute Deploy Altimeter Firmware Programming Tutorial](https://www.youtube.com/watch?v=OrcEw346bdA)
 
-[like this?](https://www.youtube.com/watch?v=F-nlZQfFYfA)
+[How to make a Water Rocket Launcher](https://www.youtube.com/watch?v=hJf7DHApz2Y&list=PLK6-a7u-VQfmqPL_loUs0Q1idKfswCHf)
 
 ## Dropbox
 [Shared Folder](https://www.dropbox.com/home/water-rocket-single-stage)
