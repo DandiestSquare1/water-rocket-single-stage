@@ -16,6 +16,7 @@ TODO: Write a project description
 
 [Split Collar Cable Tie Water Rocket Launcher System](https://www.youtube.com/watch?v=T0dKc0fkVko)
 
+[like the pressure gauge on this one](https://www.youtube.com/watch?v=CwJ4ITykf1s)
 
 ## Dropbox
 [Shared Folder](https://www.dropbox.com/home/water-rocket-single-stage)
