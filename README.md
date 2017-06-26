@@ -6,7 +6,7 @@ TODO: Write a project description
 
 [How to make a Water Rocket Launcher](https://www.youtube.com/watch?v=hJf7DHApz2Y&list=PLK6-a7u-VQfmqPL_loUs0Q1idKfswCHf)
 
-[Water Rocket Launch Collar](https://www.youtube.com/watch?v=iAQv_8aqf2w)
+[Launch Collar](https://www.youtube.com/watch?v=iAQv_8aqf2w)
 
 ## Dropbox
 [Shared Folder](https://www.dropbox.com/home/water-rocket-single-stage)
