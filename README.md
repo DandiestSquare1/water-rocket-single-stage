@@ -4,9 +4,11 @@ TODO: create dual launch water rocket
 FEATURES:
 - launch two rockets at a time 
 - single or double triggers/lines/ropes
+
 SAFETY: 
 - launches from a height >= 4.5ft to prevent head injury
 - Safety: pressure release to prevent PSI greater than X
+
 Education: 
 - attach pressure gauge and use blue/red sharpy to indicate best PSI range to use
 - create bike pump (for boys to learn how bike pumps work)
