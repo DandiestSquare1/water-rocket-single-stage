@@ -2,8 +2,8 @@
 TODO: create dual launch water rocket 
 
 FEATURES:
-- [ ] launch two rockets at a time 
-- [ ] single or double triggers/lines/ropes
+- launch two rockets at a time 
+- single or double triggers/lines/ropes
 SAFETY: 
 - launches from a height >= 4.5ft to prevent head injury
 - Safety: pressure release to prevent PSI greater than X
