@@ -1,16 +1,3 @@
-ar marked   = require('marked');
-var renderer = new marked.Renderer();
-
-marked.setOptions({
-  ...
-});
-
-renderer.link = function( href, title, text ) {
-  return '<a target="_blank" href="'+ href +'" title="' + title + '">' + text + '</a>';
-}
-
-marked(message, { renderer:renderer });
-
 # Project Name: Single Stage Water Rocket
 TODO: Write a project description
 
