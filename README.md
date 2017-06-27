@@ -1,4 +1,4 @@
-# Project Name: Single Stage Water Rocket
+# Single Stage Water Rocket
 TODO: create dual launch water rocket
 
 FEATURES:
