@@ -19,7 +19,10 @@ EDUCATION:
 [How to make a Water Rocket Launcher](https://www.youtube.com/watch?v=hJf7DHApz2Y&list=PLK6-a7u-VQfmqPL_loUs0Q1idKfswCHf)
 
 [Launch Collar](https://www.youtube.com/watch?v=iAQv_8aqf2w)
+
 [Overhead Water Rocket Launcher](https://www.youtube.com/watch?v=icQhLT4QCO8)
+
+[Hairspray rocket](https://www.youtube.com/watch?v=UslstxqrBlI)
 
 ## Dropbox
 [Shared Folder](https://www.dropbox.com/home/water-rocket-single-stage)
